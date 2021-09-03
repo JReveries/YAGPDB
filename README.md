@@ -1,7 +1,7 @@
 # YAGPDB
 
-Repeat
+Repeat.go
 
 
 
-Avatar
+Avatar.go
